@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @craigjcscott. Currently working in Product Ops at Checkr
--  Slowly by surely working to improve my python capabilities.
+- 👋 Hi, I’m @craigjcscott.
+-  Tinkering with Python and webdev (HTML, CSS, JS).
 - 🌱 "The roots of education are bitter, but the fruit is sweet." -Aristotle
 - 📫 Feel free to reach out -> cjcs@me.com
 
